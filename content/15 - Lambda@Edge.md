@@ -147,3 +147,4 @@ exports.handler = async (event, context) => {
   return request;
 };
 ```
+Steve wraps up the course answering a question about AWS resources and talking through other AWS products that may be helpful to frontend developers. These products include Amazon Cognito, DynamoDB, AWS AppSync, Amazon Location Service, and AWS Amplify.
